@@ -1,4 +1,4 @@
-mqtt client base on mqttws
+mqtt client base on mqttws for the websocket connection
 
 ## Features
 
